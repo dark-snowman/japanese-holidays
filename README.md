@@ -1,2 +1,3 @@
 # japanese-holidays
-Use Python to find any Japanese holidays for any year
+Use Python to find Japanese holidays for any year
+Using the following modules: jpholiday, pandas, pysimplegui, and pyperclip
